@@ -1,10 +1,10 @@
 ### Hi there 👋
-Im a highschool student looking to have fun and create cool open source projects. <br>
+Im a college student looking to have fun and create cool open source projects. <br>
 
-begining my journy in learning rust. <br>
+begining my journy in learning c++ and various other languages. <br>
 looking to upload some of those projects soon <br>
 
-I contribite to opensource projets when i see something that could be improved upon.
+I like to contribite to opensource projets when i see something that i want to improve upon.
 
 ## Contributions
 [Monkeytype](https://github.com/monkeytypegame/monkeytype)
