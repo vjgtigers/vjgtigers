@@ -6,6 +6,12 @@ looking to upload some of those projects soon <br>
 
 I like to contribite to opensource projets when i see something that i want to improve upon.
 
+## Check out this cool project im working on
+
+[terminal-file-manager](https://github.com/vjgtigers/Terminal-File-Manager) : 
+A terminal based file manager for the windows operating system
+
+
 ## Contributions
 [Monkeytype](https://github.com/monkeytypegame/monkeytype)
 1. [percentage when hovering over xp bar](https://github.com/monkeytypegame/monkeytype/commit/e37bf192e332220643b85c62fd8da5fa7789a956)
